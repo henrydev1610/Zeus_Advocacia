@@ -2,6 +2,9 @@
 
 Bem-vindo ao repositório do site do Zeus Escritório de Advocacia, desenvolvido em WordPress. Este é um projeto pessoal que contém todos os arquivos e recursos necessários para o funcionamento do nosso site, bem como informações sobre como contribuir para o seu desenvolvimento.
 
+<img src="./readme-gif.gif"/>
+
+
 ## Visão Geral
 
 Nosso site foi construído utilizando o WordPress, uma plataforma poderosa e flexível para o desenvolvimento de websites. Ele foi projetado para representar o Zeus Escritório de Advocacia de forma profissional, fornecendo informações relevantes aos visitantes, além de oferecer uma experiência de navegação intuitiva.
