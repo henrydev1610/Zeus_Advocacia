@@ -4,7 +4,7 @@ Bem-vindo ao repositório do site do Zeus Escritório de Advocacia, desenvolvido
 
 <img src="./readme-gif.gif"/>
 
-**Link para o projeto:** [zeus Advogados](http://zeusadv.wuaze.com/)
+**Link para a página:** [zeus Advogados](http://zeusadv.wuaze.com/)
 
 ## Visão Geral
 
